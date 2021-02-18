@@ -8,7 +8,8 @@ public class Main {
         Ponto2D p2 = new Ponto2D(2,8);
         
         System.out.println(p1);
-        System.out.println(p2);
+        System.out.println(p2);   
+        
         
         System.out.println(p2.distancia(p1));
 
